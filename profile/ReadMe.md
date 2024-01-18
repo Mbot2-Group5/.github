@@ -14,5 +14,5 @@ WebApp: [WebStorm](https://www.jetbrains.com/webstorm/download/download-thanks.h
 Mbot2: [Micropython](https://docs.micropython.org/en/latest/)<br>
 WebApp: [HTML](https://wiki.selfhtml.org/wiki/HTML), [CSS](https://wiki.selfhtml.org/wiki/CSS), [JavaScript](https://wiki.selfhtml.org/wiki/JavaScript)
 
-# Verbindung der Apps & Mbot2
+# Verbindung der WebApp mit dem Mbot2
 [JSON](https://www.json.org/json-de.html)
