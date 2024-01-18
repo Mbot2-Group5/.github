@@ -8,7 +8,7 @@ Tobias Haas: ScrumMaster (Dokumentation & Teamleitung)<br>
 
 # IDE
 MBot2: [Mblock V5.4.3](https://s.mblock.cc/download/pc-windows)<br>
-WebApp: [WebStorm](https://www.jetbrains.com/webstorm/download/download-thanks.html)
+WebApp: [WebStorm 2023.3.2](https://www.jetbrains.com/webstorm/download/download-thanks.html)
 
 # Programmiersprachen:
 Mbot2: [Micropython](https://docs.micropython.org/en/latest/)<br>
