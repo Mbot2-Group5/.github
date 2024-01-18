@@ -1,9 +1,9 @@
 
 # SYP-Projekt der Gruppe 5
 ---
-# Informationen
+# Aufgaben der Teammitglieder
 Patrick Thor: Mbot2 (Verbindung zum Wlan | Empanfgen, Verarbeitung & Ausführen der Befehle | LineFollower | SuicidePrevention)<br>
-Stefan Rautner: WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung)<br>
+Stefan Rautner: WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung) & Github<br>
 Tobias Haas: ScrumMaster (Dokumentation & Teamleitung)<br>
 
 # IDE
