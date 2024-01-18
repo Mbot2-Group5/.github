@@ -3,8 +3,8 @@
 ---
 # Informationen
 Patrick Thor: Mbot2 (Verbindung zum Wlan | Empanfgen, Verarbeitung & Ausführen der Befehle), LineFollower<br>
-Stefan Rautner: WebApp<br>
-Tobias Haas: ScrumManager<br>
+Stefan Rautner: WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung)<br>
+Tobias Haas: ScrumManager (Dokumentation & Teamleitung)<br>
 
 # IDE
 MBot2: [Mblock V5.4.3](https://s.mblock.cc/download/pc-windows)<br>
