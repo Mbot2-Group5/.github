@@ -1,16 +1,18 @@
 
 # SYP-Projekt der Gruppe 5
-# Informationen
 ---
+# Informationen
+Patrick Thor: Mbot2 (Verbindung zum Wlan | Empanfgen, Verarbeitung & Ausführen der Befehle), LineFollower<br>
+Stefan Rautner: WebApp<br>
+Tobias Haas: ScrumManager<br>
 
 # IDE
-[Mblock V5.4.3](https://s.mblock.cc/download/pc-windows)<br>
-[Intellij IDEA 2023.1.3](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows)<br>
-[Android Studio 2023.1.1.27](https://developer.android.com/studio)
+MBot2: [Mblock V5.4.3](https://s.mblock.cc/download/pc-windows)<br>
+WebApp: [WebStorm](https://www.jetbrains.com/webstorm/download/download-thanks.html)
 
 # Programmiersprachen:
-[Micropython](https://docs.micropython.org/en/latest/)<br>
-[JavaFX](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
+Mbot2: [Micropython](https://docs.micropython.org/en/latest/)<br>
+WebApp: [JavaScript]()
 
 # Verbindung der Apps & Mbot2
 [JSON](https://www.json.org/json-de.html)
