@@ -2,8 +2,8 @@
 # SYP-Projekt der Gruppe 5
 ---
 # Aufgaben der Teammitglieder
-Patrick Thor: Mbot2 (Verbindung zum Wlan | Empfangen, Verarbeitung & Ausführen der Befehle | LineFollower | SuicidePrevention)<br>
-Stefan Rautner: Progressive WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung) & Github<br>
+Patrick Thor: Mbot2 (Verarbeitung & Ausführen der Befehle | LineFollower | SuicidePrevention)<br>
+Stefan Rautner: Progressive WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung), Mbot2(Verbindung zum Internet und Empfangen/Senden der Daten) & Github<br>
 Tobias Haas: ScrumMaster (Dokumentation & Teamleitung)<br>
 
 # Verbindung der WebApp mit dem Mbot2
