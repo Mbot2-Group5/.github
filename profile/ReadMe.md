@@ -6,9 +6,6 @@
 [Stefan Rautner](https://github.com/StefanRautner): Progressive WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung), Mbot2(Verbindung zum Internet & Empfangen, Senden & Verarbeiten der Daten, SuicidePrevention) & Github<br>
 [Tobias Haas](https://github.com/HazeAT): ScrumMaster (Dokumentation & Teamleitung)<br>
 
-# Verbindung der WebApp mit dem Mbot2
-[JSON](https://www.json.org/json-de.html)
-
 # Mbot2
 IDE: [Mblock V5.4.3](https://s.mblock.cc/download/pc-windows) & [PyCharm 2023.3.3](https://www.jetbrains.com/de-de/pycharm/download/download-thanks.html)<br>
 Sprachen: [Micropython](https://docs.micropython.org/en/latest/) & [JSON](https://www.json.org/json-de.html)
