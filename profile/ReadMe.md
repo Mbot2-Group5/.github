@@ -3,7 +3,7 @@
 ---
 # Aufgaben der Teammitglieder
 [Patrick Thor](https://github.com/Patho2005Thorick): Mbot2 (LineFollower)<br>
-[Stefan Rautner](https://github.com/StefanRautner): Progressive WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung), Mbot2(Verbindung zum Internet und Empfangen, Senden & Verarbeiten der Daten, SuicidePrevention) & Github<br>
+[Stefan Rautner](https://github.com/StefanRautner): Progressive WebApp (Verbindung (Windows, Android, IOS & Linux) für Steuerung), Mbot2(Verbindung zum Internet & Empfangen, Senden & Verarbeiten der Daten, SuicidePrevention) & Github<br>
 [Tobias Haas](https://github.com/HazeAT): ScrumMaster (Dokumentation & Teamleitung)<br>
 
 # Verbindung der WebApp mit dem Mbot2
