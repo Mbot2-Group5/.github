@@ -12,4 +12,4 @@ Sprachen: [Micropython](https://docs.micropython.org/en/latest/) & [JSON](https:
 
 # Progressive webApp
 IDE: [WebStorm](https://www.jetbrains.com/de-de/webstorm/download/download-thanks.html) & [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/download-thanks.html)<br>
-Sprachen: [HTML](https://wiki.selfhtml.org/wiki/HTML), [CSS](https://wiki.selfhtml.org/wiki/CSS), [JavaScript](https://wiki.selfhtml.org/wiki/JavaScript) & [Python](https://www.python.org/doc/) & [JSON](https://www.json.org/json-de.html)
+Sprachen: [HTML](https://wiki.selfhtml.org/wiki/HTML), [CSS](https://wiki.selfhtml.org/wiki/CSS), [JavaScript](https://wiki.selfhtml.org/wiki/JavaScript), [Python](https://www.python.org/doc/) & [JSON](https://www.json.org/json-de.html)
