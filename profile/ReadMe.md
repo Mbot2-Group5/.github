@@ -11,5 +11,5 @@ IDE: [Mblock V5.4.3](https://s.mblock.cc/download/pc-windows) & [PyCharm 2023.3.
 Sprachen: [Micropython](https://docs.micropython.org/en/latest/) & [JSON](https://www.json.org/json-de.html)
 
 # Progressive webApp
-IDE: [WebStorm 2023.3.3](https://www.jetbrains.com/de-de/webstorm/download/download-thanks.html)<br>
+IDE: [WebStorm 2023.3.3](https://www.jetbrains.com/de-de/webstorm/download/download-thanks.html) & [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/download-thanks.html)<br>
 Sprachen: [HTML](https://wiki.selfhtml.org/wiki/HTML), [CSS](https://wiki.selfhtml.org/wiki/CSS), [JavaScript](https://wiki.selfhtml.org/wiki/JavaScript) & [JSON](https://www.json.org/json-de.html)
