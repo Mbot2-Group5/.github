@@ -4,7 +4,7 @@
 # Aufgaben der Teammitglieder
 [Patrick Thor](https://github.com/Patho2005Thorick): Mbot2 (LineFollower & Farbe unter MBot2 erkennen)<br>
 [Stefan Rautner](https://github.com/StefanRautner): Progressive WebApp (Verbindung auf sämtlichen Technologien für Steuerung über Tastatur, Touch & Controller), MBot2(Verbindung zum Internet & Empfangen, Senden & Verarbeiten der Daten, SuicidePrevention) & Github<br>
-[Tobias Haas](https://github.com/HazeAT): ScrumMaster (Dokumentation & Teamleitung) & Restylen der Webapp/Website<br>
+[Tobias Haas](https://github.com/HazeAT): ScrumMaster (Dokumentation & Teamleitung)<br>
 
 # MBot2
 IDE: [Mblock](https://s.mblock.cc/download/pc-windows) & [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/download-thanks.html)<br>
