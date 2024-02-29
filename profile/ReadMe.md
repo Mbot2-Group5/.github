@@ -1,7 +1,7 @@
 
 # SYP-Projekt der Gruppe 5
 ## Aufgaben der Teammitglieder
-- [Tobias Haas](https://github.com/HazeAT): Dokumentation & Website-GUI<br>
+- [Tobias Haas](https://github.com/HazeAT): Website-GUI<br>
 - [Patrick Thor](https://github.com/Patho2005Thorick): Dokumentation & Research<br>
 - [Stefan Rautner](https://github.com/StefanRautner): Programmieren & Github<br>
 
